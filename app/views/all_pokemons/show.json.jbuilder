@@ -1,0 +1,1 @@
+json.partial! 'all_pokemon', all_pokemon: @all_pokemon

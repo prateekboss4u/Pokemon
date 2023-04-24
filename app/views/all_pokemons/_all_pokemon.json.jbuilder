@@ -1,0 +1,1 @@
+json.extract! best_sell, :id, :name, :strength, :created_at, :updated_at

@@ -1,0 +1,1 @@
+json.extract! best_sell, :id, :name, :total_pokemon, :victory, :created_at, :updated_at
